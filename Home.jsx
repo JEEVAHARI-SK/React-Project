@@ -4,9 +4,9 @@ import CarCard from '../components/CarCard'
 import { cars } from '../data/cars'
 
 const heroImages = [
-  'https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=1800&q=95&auto=format',
-  'https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1800&q=95&auto=format',
-  'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=1800&q=95&auto=format',
+  'https://tse3.mm.bing.net/th/id/OIP.QNjdly_54Vg5N3nP6k3S0gHaEK?rs=1&pid=ImgDetMain&o=7&rm=3',
+  'https://www.drivingline.com/s3/drivingline.prd/media/lt4cdmy5/baja-designs-bronco-07.jpg?quality=70&mode=pad%C2%A9metadata=true&w=1695',
+  'https://media.umbraco.io/suzuki-gb/sueeuyxz/jimny_sep23_desktop.jpeg?width=1840&format=webp',
 ]
 
 const stats = [
